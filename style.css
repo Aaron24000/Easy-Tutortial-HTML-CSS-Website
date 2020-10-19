@@ -1,8 +1,13 @@
 .container {
     height: 100%;
     width: 100%;
-    background: rgb(66, 72, 82); 
+    background: #1c1a1a; 
 }
+
+/* html body {
+    height: 100%;
+    width: 100vw;
+} */
 
 .menu ul{
     display: inline-flex;
